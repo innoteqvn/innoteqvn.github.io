@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-d433a195e489e801b56e.js",
+      "component---src-pages-index-js-d433a195e489e801b56e.js.map"
+    ],
+    "path---": [
+      "path----433c30bfac45ae36e1c8.js",
+      "path----433c30bfac45ae36e1c8.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-4b6d0cc21c5f8aaf474f.js",
+      "component---src-layouts-index-js-4b6d0cc21c5f8aaf474f.js.map"
+    ],
+    "path---index": [
+      "path---index-184394839cd3049c2c16.js",
+      "path---index-184394839cd3049c2c16.js.map"
+    ],
+    "component---src-posts-template-js": [
+      "component---src-posts-template-js-4619d3c43ac2f70699c6.js",
+      "component---src-posts-template-js-4619d3c43ac2f70699c6.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-605730581979c5cec35b.js",
+      "commons-605730581979c5cec35b.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-96054e536d5887fec60e.js",
+      "build-js-styles.css",
+      "app-96054e536d5887fec60e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---blog-welcome-to-the-new-blog": [
+      "path---blog-welcome-to-the-new-blog-b45e18c9dba1148738bb.js",
+      "path---blog-welcome-to-the-new-blog-b45e18c9dba1148738bb.js.map"
+    ],
+    "path---blog-our-second-post": [
+      "path---blog-our-second-post-9055e2b64fc8d6f604a9.js",
+      "path---blog-our-second-post-9055e2b64fc8d6f604a9.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-7e613410e4681253e517.js",
+      "component---src-pages-about-js-7e613410e4681253e517.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
