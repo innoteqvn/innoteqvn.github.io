@@ -3,7 +3,7 @@ module.exports = {
     title: 'Innoteq Blog',
     desc: 'A new blog',
   },
-  pathPrefix: "/innoteqgatsby",
+  // pathPrefix: "/innoteqgatsby",
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
